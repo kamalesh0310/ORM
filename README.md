@@ -47,7 +47,9 @@ admin.site.register(amazon_DB,amazon_DBAdmin)
 ~~~
 
 ## OUTPUT
-<img width="1918" height="1077" alt="Screenshot 2025-11-27 113241" src="https://github.com/user-attachments/assets/a301e412-d778-4630-9c7a-9d0a3d1f9bb0" />
+![WhatsApp Image 2025-11-27 at 22 14 22_a97a3ab1](https://github.com/user-attachments/assets/35fafc6b-fc6a-421d-9d17-1f9aaf2e1b08)
+![WhatsApp Image 2025-11-27 at 22 14 24_f3a596ff](https://github.com/user-attachments/assets/959348b4-0a72-4013-ba13-339c48962b2d)
+
 
 Include the screenshot of your admin page.
 
